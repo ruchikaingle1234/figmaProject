@@ -1,0 +1,106 @@
+.cls1
+{
+    width: 100%;
+height: 1044px;
+top: 2647px;
+gap: 0px;
+opacity: 0px;
+background: #FDFDFD;
+
+
+}
+.text2
+{
+    width: 875px;
+height: 50px;
+margin-top: 67px;
+margin-left: 283px;
+text-align: center;
+color: #5C27C0;
+
+
+}
+
+.parm1{
+    font-family: Garnett Semibold;
+font-size: 42px;
+
+font-weight: 600;
+
+
+}
+.sp1{
+    font-family: Garnett Regular;
+font-size: 42px;
+
+font-weight: 400;
+
+
+}
+.cls2
+{
+    width: 1,197px;
+height: 656px;
+display: flex;
+justify-content: center;
+gap: 20px;
+margin-top: 100px;
+
+/* 
+justify: space-between;
+opacity: 0px; */
+
+}
+.m1{
+    width: 92px;
+height: 32px;
+margin-top: 34px;
+margin-left: 115px;
+
+font-family: Garnett Medium;
+font-size: 23px;
+color: #5C27C0;
+
+font-weight: 500;
+line-height: 32.04px;
+text-align: center;
+
+
+gap: 6px;
+
+
+}
+.containerbtn{
+    width: 180px;
+height: 59px;
+margin-top: 929px;
+margin-left: 630px;
+padding: 16px 30px 16px 30px;
+gap: 16px;
+
+
+opacity: 0px;
+
+
+
+}
+.btn1
+{
+    margin-top: 80px;
+margin-left: 630px;
+margin-bottom: 20px;
+    width: 120px;
+height: 27px;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+color: #5C27C0;
+border-radius: 10px;
+border: 2px solid #5C27C0;
+box-shadow: 0px 8px 40px 0px #00000038;
+
+
+
+}
